@@ -1,5 +1,4 @@
 # pyGC
- 
 > Non-parametric implementarion of Granger Causality in python based on Dhamala's paper "__Estimating Granger causality from Fourier and wavelet transforms of time series data__".
 
 > This package contains the module pyGC contains the function wilson_factorization for factorizing spectral matrices based on the implementation by Nedungadi et. al., in "__Analyzing multiple spike trains with nonparametric granger causality__" (direct translation from their Matlab code), and the function granger_causality to compute the causal influences between two signal.
